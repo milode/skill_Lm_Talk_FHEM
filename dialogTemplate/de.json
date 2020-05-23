@@ -1,0 +1,7 @@
+{
+    "skill": "Lm_Talk_FHEM",
+    "icon": "time",
+    "description": "Dumme gespraeche mit alice \u00fcber fhem",
+    "slotTypes": [],
+    "intents": []
+}
